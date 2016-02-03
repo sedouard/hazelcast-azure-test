@@ -27,7 +27,6 @@ public class GettingStarted {
 
   public static void run() {
     GettingStarted.runInstance();
-    GettingStarted.runInstance();
   }
 
 }
